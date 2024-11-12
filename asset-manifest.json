@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Law/static/css/main.6611770c.css",
+    "main.js": "/Law/static/js/main.d5b4f8fa.js",
+    "static/media/Tiger1.png": "/Law/static/media/Tiger1.e595061074dda6bfa337.png",
+    "static/media/Bear2.png": "/Law/static/media/Bear2.22298a47709bca227363.png",
+    "static/media/Bear1.png": "/Law/static/media/Bear1.09118e043536702ef20d.png",
+    "static/media/Lion1.png": "/Law/static/media/Lion1.63a522861b7acbb69a8e.png",
+    "static/media/Leopard1.png": "/Law/static/media/Leopard1.25c0199137593cdd2a5b.png",
+    "static/media/Logo.png": "/Law/static/media/Logo.d28e78b78df6f91ce927.png",
+    "index.html": "/Law/index.html",
+    "main.6611770c.css.map": "/Law/static/css/main.6611770c.css.map",
+    "main.d5b4f8fa.js.map": "/Law/static/js/main.d5b4f8fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6611770c.css",
+    "static/js/main.d5b4f8fa.js"
+  ]
+}
