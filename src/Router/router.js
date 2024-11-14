@@ -21,5 +21,5 @@ export const router = createHashRouter(
       ],
     },
   ],
-  { basename: "/Law" }
+  { basename: "Law" }
 );
