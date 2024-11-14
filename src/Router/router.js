@@ -3,23 +3,18 @@ import Root from "../Pages/Root";
 import Main from "../Components/Main/Main";
 import About from "../Pages/About";
 
-export const router = createHashRouter(
-  [
-    {
-      path: "/Law",
-      element: <Root />,
-      children: [
-        {
-          element: <Main />,
-          index: true,
-        },
-
-        {
-          element: <About />,
-          path: "about",
-        },
-      ],
-    },
-  ],
-  { basename: "Law" }
-);
+export const router = createHashRouter([
+  {
+    element: <Root />,
+    children: [
+      {
+        element: <Main />,
+        path: "/",
+      },
+      {
+        element: <About />,
+        path: "/about",
+      },
+    ],
+  },
+]);
