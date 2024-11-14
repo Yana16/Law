@@ -5,15 +5,12 @@ import About from "../Pages/About";
 
 export const router = createHashRouter([
   {
+    path: "/",
     element: <Root />,
     children: [
       {
         element: <Main />,
         index: true,
-      },
-      {
-        element: <Main />,
-        path: "/",
       },
       {
         element: <About />,
