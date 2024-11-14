@@ -12,9 +12,10 @@ export const router = createHashRouter([
         element: <Main />,
         index: true,
       },
+
       {
         element: <About />,
-        path: "about",
+        path: "/about",
       },
     ],
   },
