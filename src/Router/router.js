@@ -9,11 +9,15 @@ export const router = createHashRouter([
     children: [
       {
         element: <Main />,
+        index: true,
+      },
+      {
+        element: <Main />,
         path: "/",
       },
       {
         element: <About />,
-        path: "/about",
+        path: "about",
       },
     ],
   },
