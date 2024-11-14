@@ -6,7 +6,7 @@ import About from "../Pages/About";
 export const router = createHashRouter(
   [
     {
-      path: "/",
+      path: "/Law",
       element: <Root />,
       children: [
         {
