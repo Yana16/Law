@@ -32,7 +32,7 @@ function ModalWindow() {
               onChange={(e) => setName(e.target.value)}
               required
               type="text"
-              placeholder="Ім'я"
+              placeholder=""
             />
           </Form.Group>
           <Form>

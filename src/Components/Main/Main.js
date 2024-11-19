@@ -7,7 +7,7 @@ import Leopard from "../images/Leopard14.png";
 import Lion from "../images/Lion13.png";
 import Tiger from "../images/Tiger13.png";
 import Bear from "../images/Bear13.png";
-import Bear2 from "../images/Bear13.png";
+import Rys from "../images/rys13.png";
 
 function Main() {
   const [item, setItem] = useState(0);
@@ -41,7 +41,7 @@ function Main() {
       species: "Податки",
       age: "послуги щодо вибору оптимальної податкової юрисдикції саме для вашого бізнесу, податкове планування, міжнародне оподаткування та трансфертне оподаткування",
       // bio: "Love salmon",
-      url: Bear2,
+      url: Rys,
     },
   ];
 

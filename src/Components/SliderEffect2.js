@@ -9,7 +9,7 @@ export const SliderEffect = (opts) => {
         }
     `;
 
-  const fragment = `
+  const fragment = `  
         varying vec2 vUv;
   
         uniform sampler2D currentImage;
