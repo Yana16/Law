@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Law/static/css/main.dfb30f90.css",
+    "main.css": "/Law/static/css/main.0a25db27.css",
     "main.js": "/Law/static/js/main.0efad32e.js",
     "static/media/Tiger13.png": "/Law/static/media/Tiger13.4f704a7ed17eb9bb3604.png",
     "static/media/Bear13.png": "/Law/static/media/Bear13.15ae0a2b215e72c7ecf9.png",
@@ -9,11 +9,11 @@
     "static/media/Leopard14.png": "/Law/static/media/Leopard14.d0bc3e808e2d37d059a8.png",
     "static/media/Logo.png": "/Law/static/media/Logo.d28e78b78df6f91ce927.png",
     "index.html": "/Law/index.html",
-    "main.dfb30f90.css.map": "/Law/static/css/main.dfb30f90.css.map",
+    "main.0a25db27.css.map": "/Law/static/css/main.0a25db27.css.map",
     "main.0efad32e.js.map": "/Law/static/js/main.0efad32e.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfb30f90.css",
+    "static/css/main.0a25db27.css",
     "static/js/main.0efad32e.js"
   ]
 }
